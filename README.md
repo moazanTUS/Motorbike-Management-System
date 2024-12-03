@@ -9,11 +9,13 @@ Add, update, view, and delete motorbike records.
 View all motorbikes or those specific to a user.
 Dynamic Frontend: Built using JSP for seamless interaction.
 Database Integration: Backed by a robust DAO layer for CRUD operations.
+
 Technologies Used
 Java: Backend logic and data handling.
 JSP/Servlets: For frontend rendering and dynamic web pages.
 MySQL: Database for storing user and motorbike data.
 Eclipse: IDE for development.
+
 Project Structure
 Model-View-Controller Architecture:
 model: Core data models.
@@ -21,6 +23,7 @@ dao: Database interaction layer.
 controller: Request routing and business logic.
 Frontend: JSP pages for user interaction.
 Backend: Java servlets for processing requests and responses.
+
 How to Run
 Import the project into Eclipse.
 Set up the MySQL database using the provided schema.
